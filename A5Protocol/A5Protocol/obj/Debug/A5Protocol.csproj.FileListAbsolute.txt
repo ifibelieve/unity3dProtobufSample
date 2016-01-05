@@ -1,0 +1,16 @@
+D:\proj\A5Protocol\A5Protocol\bin\Debug\A5Protocol.dll
+D:\proj\A5Protocol\A5Protocol\bin\Debug\A5Protocol.pdb
+D:\proj\A5Protocol\A5Protocol\bin\Debug\protobuf-net.dll
+D:\proj\A5Protocol\A5Protocol\obj\Debug\A5Protocol.csprojResolveAssemblyReference.cache
+D:\proj\A5Protocol\A5Protocol\obj\Debug\A5Protocol.dll
+D:\proj\A5Protocol\A5Protocol\obj\Debug\A5Protocol.pdb
+C:\A5\Tools\ProtoGen\A5Protocol\A5Protocol\bin\Debug\A5Protocol.dll
+C:\A5\Tools\ProtoGen\A5Protocol\A5Protocol\bin\Debug\A5Protocol.pdb
+C:\A5\Tools\ProtoGen\A5Protocol\A5Protocol\obj\Debug\A5Protocol.csprojResolveAssemblyReference.cache
+C:\A5\Tools\ProtoGen\A5Protocol\A5Protocol\obj\Debug\A5Protocol.dll
+C:\A5\Tools\ProtoGen\A5Protocol\A5Protocol\obj\Debug\A5Protocol.pdb
+C:\Users\minsung.bae\Documents\myproj\A5Protocol\A5Protocol\bin\Debug\A5Protocol.dll
+C:\Users\minsung.bae\Documents\myproj\A5Protocol\A5Protocol\bin\Debug\A5Protocol.pdb
+C:\Users\minsung.bae\Documents\myproj\A5Protocol\A5Protocol\obj\Debug\A5Protocol.csprojResolveAssemblyReference.cache
+C:\Users\minsung.bae\Documents\myproj\A5Protocol\A5Protocol\obj\Debug\A5Protocol.dll
+C:\Users\minsung.bae\Documents\myproj\A5Protocol\A5Protocol\obj\Debug\A5Protocol.pdb

@@ -1,0 +1,17 @@
+D:\proj\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.exe.config
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.exe.config
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.exe
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.pdb
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\A5Protocol.dll
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\A5Protocol.pdb
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\obj\x86\Debug\ProtoBufSerializer.exe
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\obj\x86\Debug\ProtoBufSerializer.pdb
+C:\A5\Tools\ProtoGen\ProtoBufSerializer\ProtoBufSerializer\obj\x86\Debug\ProtoBufSerializer.csprojResolveAssemblyReference.cache
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.exe.config
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\obj\x86\Debug\ProtoBufSerializer.exe
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\obj\x86\Debug\ProtoBufSerializer.pdb
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.exe
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\ProtoBufSerializer.pdb
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\A5Protocol.dll
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\bin\Debug\A5Protocol.pdb
+C:\Users\minsung.bae\Documents\myproj\ProtoBufSerializer\ProtoBufSerializer\obj\x86\Debug\ProtoBufSerializer.csprojResolveAssemblyReference.cache
